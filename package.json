@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "acorn-bigint": "^0.3.0",
-    "acorn-import-meta": "^0.3.0",
+    "acorn-import-meta": "^1.0.0",
     "buble": "^0.19.3",
     "mkdirp": "^0.5.1",
     "standard": "^11.0.1",
